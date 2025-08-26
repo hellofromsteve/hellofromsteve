@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I’m Steve  
 
-<!--
-**hellofromsteve/hellofromsteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack web developer crafting **modern web apps** with:  
+⚡ Laravel • PHP • Vue.js • Inertia.js • Tailwind CSS  
 
-Here are some ideas to get you started:
+🔧 Passionate about clean code, sleek UIs, and building tools that empower developers & businesses.  
+🌍 Always learning, always shipping.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🚀 Projects I’ve Built
+🏗 **[Laravel Vue Starter](https://github.com/hellofromsteve/laravel-vue-starter)**  
+  A minimal, production-ready Laravel + Inertia + Vue starter kit.  
+
+💼 **[TurndaleTalent](https://github.com/hellofromsteve/turndaletalent)** — [Live site 🌐](https://turndaletalent.com/)  
+  A talent and job-seeking platform built with Laravel + Vue, connecting candidates with employers.  
+
