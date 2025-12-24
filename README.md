@@ -13,13 +13,13 @@ I just type stuff on my laptop!
  **[Hubtel Integration Package](https://github.com/hellofromsteve/hubtel)**  
   A ready made package for integration Hubtel payment service on your Laravel >= 11 Website. 
 
- **[Bags Cetera Ecommerce](Private Repo)** — [Live Site ](https://bagscetera.com)  
+ **[Bags Cetera Ecommerce](https://github.com/hellofromsteve/bagscetera)** — [Live Site ](https://bagscetera.com)  
   The Official website for Bags Cetera Ecommerce, sales of amazing varities of bags.
 
  **[SickleGeneActionFoundation Website](https://github.com/hellofromsteve/sicklegeneaction)** — [Live Site ](https://sicklegeneactionghana.com/)  
   The Official website for Sickle Gene Action Foundation website.
 
- **[Solentik School Management Saas](Private Repo)** — [Live Site ](https://solentik.com)  
+ **[Solentik School Management Saas](https://github.com/hellofromsteve/solentik)** — [Live Site ](https://solentik.com)  
   The Official website for Solentik School Management System, made for Ghanaian Schools.
  
  **[Laravel Vue Starter](https://github.com/hellofromsteve/laravel-vue-starter)**  
