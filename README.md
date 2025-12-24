@@ -13,18 +13,18 @@ I just type stuff on my laptop!
  **[Hubtel Integration Package](https://github.com/hellofromsteve/hubtel)**  
   A ready made package for integration Hubtel payment service on your Laravel >= 11 Website. 
 
- **[Bags Cetera Ecommerce](Private Repo)** — [Live site 🌐](https://bagscetera.com)  
+ **[Bags Cetera Ecommerce](Private Repo)** — [Live Site ](https://bagscetera.com)  
   The Official website for Bags Cetera Ecommerce, sales of amazing varities of bags.
 
- **[SickleGeneActionFoundation Website](https://github.com/hellofromsteve/sicklegeneaction)** — [Live site 🌐](https://sicklegeneactionghana.com/)  
+ **[SickleGeneActionFoundation Website](https://github.com/hellofromsteve/sicklegeneaction)** — [Live Site ](https://sicklegeneactionghana.com/)  
   The Official website for Sickle Gene Action Foundation website.
 
- **[Solentik School Management Saas](Private Repo)** — [Live site 🌐](https://solentik.com)  
+ **[Solentik School Management Saas](Private Repo)** — [Live Site ](https://solentik.com)  
   The Official website for Solentik School Management System, made for Ghanaian Schools.
  
  **[Laravel Vue Starter](https://github.com/hellofromsteve/laravel-vue-starter)**  
   A minimal, production-ready Laravel + Inertia + Vue starter kit.  
 
- **[TurndaleTalent](https://github.com/hellofromsteve/turndaletalent)** — [Live site 🌐](https://turndaletalent.com/)  
+ **[TurndaleTalent](https://github.com/hellofromsteve/turndaletalent)** — [Live Site ](https://turndaletalent.com/)  
   A talent and job-seeking platform built with Laravel, connecting candidates with employers.  
 
