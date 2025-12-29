@@ -28,23 +28,3 @@ I just type stuff on my laptop!
  **[TurndaleTalent](https://github.com/hellofromsteve/turndaletalent)** — [Live Site ](https://turndaletalent.com/)  
   A talent and job-seeking platform built with Laravel, connecting candidates with employers.  
 
-
-  # AI Context for Stephen Asare
-
-## Profile
-- Name: Stephen Asare
-- Location: Accra, Ghana
-- Company: Turndale Solutions
-- Job title: Web Developer
-- About me: I type stuff on my laptop
-
-## Online Presence
-\[Gravatar Profile\]: [stephenasare.link](https://stephenasare.link)
-\[Facebook\]: [www.facebook.com/app_scoped_user_id//31432154519765833](https://www.facebook.com/app_scoped_user_id//31432154519765833)
-\[GitHub\]: [github.com/hellofromsteve](https://github.com/hellofromsteve)
-\[LinkedIn\]: [www.linkedin.com/in/stephen-asare-61380b370](https://www.linkedin.com/in/stephen-asare-61380b370)
-\[Spotify\]: [open.spotify.com/user/57ux2u9a75utob6c9e3sdysjs](https://open.spotify.com/user/57ux2u9a75utob6c9e3sdysjs)
-\[Telegram\]: [t.me/hellofromsteve](https://t.me/hellofromsteve)
-\[TikTok\]: [tiktok.com/@hellofromsteve](https://tiktok.com/@hellofromsteve)
-\[X\]: [x.com/hellofromsteve1](https://x.com/hellofromsteve1)
-
