@@ -7,7 +7,7 @@ I just type stuff on my laptop!
 
 ### Projects I’ve Built
 
- **[Paystack Integration Package](https://github.com/turndale/paystack)**  
+ **[Paystack Integration Package](https://github.com/turndale/paystack)**  — [Documentation Site ](https://paystack.stephenasare.dev)  
   A ready made package for integration Paystack payment service on your Laravel >= 11 Website. 
 
  **[Bags Cetera Ecommerce](https://github.com/hellofromsteve/bagscetera)** — [Live Site ](https://bagscetera.com)  
