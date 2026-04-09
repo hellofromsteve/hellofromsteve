@@ -1,5 +1,5 @@
 #  About Me:
-# Hi, I'm Stephen<br><br>### Full-Stack Developer | .NET & PHP Specialist<br><br>I am a results-driven **Junior Software Developer** with a unique background spanning both the **.NET** and **PHP/Laravel** ecosystems.
+# Hi, I'm Stephen<br><br>Full-Stack Developer | .NET & PHP Specialist<br><br>I am a results-driven **Junior Software Developer** with a unique background spanning both the **.NET** and **PHP/Laravel** ecosystems.
 
 
 ## Socials:
