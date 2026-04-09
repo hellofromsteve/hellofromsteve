@@ -1,25 +1,30 @@
-#  Hey, I’m Steve  
-
- **Web Developer**
-
-I just type stuff on my laptop! 
+#  About Me:
+# Hi, I'm Stephen<br><br>### Full-Stack Developer | .NET & PHP Specialist<br><br>I am a results-driven **Junior Software Developer** with a unique background spanning both the **.NET** and **PHP/Laravel** ecosystems. I love bridging the gap between robust backend architectures and smooth, interactive frontend experiences.
 
 
-### Projects I’ve Built
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hellofromsteve) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephen-asare-61380b370/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hellofromsteve) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hellofromsteve1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@stephenasare.dev) 
 
- **[Paystack Integration Package](https://github.com/turndale/paystack)**  — [Documentation Site ](https://paystack.stephenasare.dev)  
-  A ready made package for integration Paystack payment service on your Laravel >= 11 Website. 
+#  Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hellofromsteve&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hellofromsteve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellofromsteve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- **[Bags Cetera Ecommerce](https://github.com/hellofromsteve/bagscetera)** — [Live Site ](https://bagscetera.com)  
-  The Official website for Bags Cetera Ecommerce, sales of amazing varities of bags.
+##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hellofromsteve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
- **[SickleGeneActionFoundation Website](https://github.com/hellofromsteve/sicklegeneaction)** — [Live Site ](https://sicklegeneactionghana.com/)  
-  The Official website for Sickle Gene Action Foundation website.
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- **[Solentik School Management Saas](https://github.com/hellofromsteve/solentik)** — [Live Site ](https://solentik.com)  
-  The Official website for Solentik School Management System, made for Ghanaian Schools.
- 
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hellofromsteve&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- **[TurndaleTalent](https://github.com/hellofromsteve/turndaletalent)** — [Live Site ](https://turndaletalent.com/)  
-  A talent and job-seeking platform built with Laravel, connecting candidates with employers.  
+---
+[![](https://visitcount.itsvg.in/api?id=hellofromsteve&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ##  You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://paystack.shop/pay/hellofromsteve) 
+
+  
