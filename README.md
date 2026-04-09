@@ -1,5 +1,5 @@
 ### About Me:
-### Hi, I'm Stephen<br><br>Full-Stack Developer | .NET & PHP Specialist<br><br>
+### Hi, I'm Stephen<br><br>Full-Stack Developer | Junior .NET | PHP Specialist<br><br>
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hellofromsteve) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-asare-61380b370/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hellofromsteve) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hellofromsteve1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@stephenasare.dev) 
 
@@ -13,13 +13,8 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellofromsteve&theme=dark&layout=compact&include_all_commits=true)
 
-
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-###
-[![](https://visitcount.itsvg.in/api?id=hellofromsteve&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##  You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/hellofromsteve) 
